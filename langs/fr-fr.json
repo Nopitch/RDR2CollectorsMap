@@ -20,7 +20,7 @@
 	{"key": "menu.settings", "value": "Paramètres"},
 	{"key": "menu.day", "value": "Jour"},
 	{"key": "menu.tool_type", "value": "Outils"},
-	{"key": "menu.tool_type.no_tools", "value": "Pas d'outil"},
+	{"key": "menu.tool_type.no_tools", "value": "Aucun"},
 	{"key": "menu.tool_type.shovel", "value": "Pelle"},
 	{"key": "menu.tool_type.metal_detector", "value": "Détecteur de métaux"},
 	{"key": "menu.tool_type.all", "value": "Tous"},
